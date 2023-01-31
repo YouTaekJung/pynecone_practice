@@ -1,2 +1,3 @@
-.idea/pynecone.db
+.idea/
+pynecone.db
 .web
